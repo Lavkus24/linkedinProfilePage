@@ -1,1 +1,1 @@
-# linkedinProfilePage
+Utilized MERN stack
