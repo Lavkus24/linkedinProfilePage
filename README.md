@@ -34,8 +34,8 @@ This project is a clone of the LinkedIn profile page, built using the MERN stack
 
 ## Setup Instructions
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd linkedin-profile-page`
+1. Clone the repository: `git clone https://github.com/Lavkus24/linkedinProfilePage`
+2. Navigate to the project directory: `cd linkedinProfilePage`
 3. Install dependencies: `npm install`
 4. Set up environment variables: Create a `.env` file in the root directory and configure environment variables such as MongoDB connection string, JWT secret key, etc.
 5. Start the server: `npm start`
